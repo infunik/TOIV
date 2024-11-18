@@ -396,7 +396,7 @@ ssh user@192.168.2.24
 #### 1. Датчик движения устройства WB-MSW v.3 (5)
 
 ```bash
-mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Temperature" -v  -p 1883
+mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Max Motion" -t "/devices/wb-msw-v3_21/controls/Current Motion" -v -p 1883
 ```
 
 #### 2. Качество воздуха VOC устройства WB-MS v.2 (12)
@@ -409,12 +409,6 @@ mosquitto_sub -t "/devices/wb-ms_11/controls/Temperature" -v  -p 1883
 
 ```bash
 mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Temperature" -v  -p 1883
-```
-
-Датчик движения устройства WB-MSW v.3 (5)
-
-```bash
-mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Max Motion" -t "/devices/wb-msw-v3_21/controls/Current Motion" -v -p 1883
 ```
 
 Датчик температуры устройства WB-MS v.2 (12)
