@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOIV.md",
+                "file": "prak5-8/prak5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOIV"
+              "title": "prak5"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.5
   },
   "right": {
     "id": "7a471be015a8c3ac",
@@ -86,6 +86,7 @@
       {
         "id": "d71aac2e0db3a2f8",
         "type": "tabs",
+        "dimension": 49.25053533190579,
         "children": [
           {
             "id": "7ecf829401be6005",
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOIV.md"
+                "file": "prak5-8/prak5.md"
               },
               "icon": "lucide-list",
-              "title": "Структура TOIV"
+              "title": "Структура prak5"
             }
           }
         ],
@@ -151,6 +152,7 @@
       {
         "id": "5677e180622f9124",
         "type": "tabs",
+        "dimension": 22.983583154889367,
         "children": [
           {
             "id": "78794fb304a42cba",
@@ -160,6 +162,23 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2070a1ec6646b26f",
+        "type": "tabs",
+        "dimension": 27.76588151320486,
+        "children": [
+          {
+            "id": "a890bbfcbcb4dd1a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ]
@@ -180,5 +199,21 @@
     }
   },
   "active": "6b478541bd856304",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Без названия.md",
+    "prak5-8/prak5.md",
+    "TOIV.md",
+    "images/Pasted image 20241118161406.png",
+    "images/Pasted image 20241118161401.png",
+    "images/Pasted image 20241118161351.png",
+    "images/Pasted image 20241118161345.png",
+    "images/Pasted image 20241118161335.png",
+    "prak5-8/prak5-8.md",
+    "images/Pasted image 20241118160711.png",
+    "images/Pasted image 20241118160648.png",
+    "images/Pasted image 20241118160639.png",
+    "images/Pasted image 20241118160629.png",
+    "images/Pasted image 20241118160540.png",
+    "images"
+  ]
 }

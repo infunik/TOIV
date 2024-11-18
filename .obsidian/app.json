@@ -1,1 +1,7 @@
-{}
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "images",
+  "readableLineLength": false,
+  "strictLineBreaks": true
+}
