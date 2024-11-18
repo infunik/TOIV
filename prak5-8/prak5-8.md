@@ -405,6 +405,24 @@ mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Temperature" -v  -p 1883
 mosquitto_sub -t "/devices/wb-ms_11/controls/Temperature" -v  -p 1883
 ```
 
+Иные устройства: датчик температуры v3
+
+```bash
+mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Temperature" -v  -p 1883
+```
+
+Датчик движения устройства WB-MSW v.3 (5)
+
+```bash
+mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Max Motion" -t "/devices/wb-msw-v3_21/controls/Current Motion" -v -p 1883
+```
+
+Датчик температуры устройства WB-MS v.2 (12)
+
+```bash
+
+```
+
 ### Часть 3. Управление устройствами
 Для управления устройством (изменения значения канала), необходимо отправить сообщение в топик `/devices/<device-id>/controls/<control-id>/on` (обратите внимание на /on в конце). Название топика можно также посмотреть в веб-интерфейсе контроллера во вкладке Settings – MQTT Channels. Это делается с помощью консольной команды `mosquitto_pub`.
 
