@@ -47,7 +47,8 @@
               "title": "МУ ТОИВ 5-8 ПР v3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prak5-8/prak5-8.md"
+                "file": "prak5-8/tasks.md"
               },
               "icon": "lucide-list",
-              "title": "Структура prak5-8"
+              "title": "Структура tasks"
             }
           }
         ],
@@ -224,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b478541bd856304",
+  "active": "42c4546a93c18d02",
   "lastOpenFiles": [
     "МУ ТОИВ 5-8 ПР v3.pdf",
-    "prak5-8/prak5-8.md",
     "prak5-8/tasks.md",
+    "prak5-8/prak5-8.md",
     "prak5-8/prak7.md",
     "prak5-8/prak8.md",
     "верные утверждения.pdf",
