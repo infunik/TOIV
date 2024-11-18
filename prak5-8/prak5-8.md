@@ -420,7 +420,7 @@ mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Max Motion" -t "/devices/wb-msw
 Датчик температуры устройства WB-MS v.2 (12)
 
 ```bash
-
+mosquitto_sub -t "/devices/wb-ms_11/controls/Temperature" -v  -p 1883
 ```
 
 ### Часть 3. Управление устройствами

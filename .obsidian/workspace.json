@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "prak5-8"
             }
+          },
+          {
+            "id": "895c3d9c825c7f3c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "МУ ТОИВ 5-8 ПР v3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "МУ ТОИВ 5-8 ПР v3"
+            }
           }
         ]
       }
@@ -200,6 +212,8 @@
   },
   "active": "6b478541bd856304",
   "lastOpenFiles": [
+    "МУ ТОИВ 5-8 ПР v3.pdf",
+    "prak5-8/prak5-8.md",
     "prak1-4/prak3.md",
     "prak1-4/prak1.md",
     "images/Pasted image 20241118162943.png",
@@ -212,7 +226,6 @@
     "prak1-4/info3.md",
     "prak1-4/prak1-4.md",
     "info",
-    "prak5-8/prak5-8.md",
     "prak1-4",
     "Без названия.md",
     "TOIV.md",
