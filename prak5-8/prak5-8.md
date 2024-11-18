@@ -402,7 +402,7 @@ mosquitto_sub -t "/devices/wb-msw-v3_21/controls/Max Motion" -t "/devices/wb-msw
 #### 2. Качество воздуха VOC устройства WB-MS v.2 (12)
 
 ```bash
-mosquitto_sub -t "/devices/wb-ms_11/controls/Temperature" -v  -p 1883
+mosquitto_sub -t "/devices/wb-ms_11/controls/Air Quality (VOC)" -v -p 1883
 ```
 
 Иные устройства: датчик температуры v3
@@ -427,8 +427,16 @@ mosquitto_sub -t "/devices/wb-ms_11/controls/Temperature" -v  -p 1883
 
 Включите или измените поведение устройств посредством отправки сообщение в соответствующий топик согласно вариантам:
 
-1. Включите индикатор устройства WB-MSW v.3 (5)
-2. Включите подсветку кнопки 28
+#### 1. Включите индикатор устройства WB-MSW v.3 (5)
+
+```bash
+mosquitto_pub -t "/devices/wb-gpio/controls/EXT1_R3A3/on" -m "1" -p 1883
+```
+
+#### 2. Включите подсветку кнопки 28
+
+```bash
+```
 
 ### Часть 4*. Сообщения MQTT с внешнего устройства
 *Примечание. Работа выполняется только в случае подключения стендов к сети Интернет.*
