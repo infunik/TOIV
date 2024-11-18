@@ -13,7 +13,16 @@
         "icon": "LiFolder",
         "for": "folders",
         "order": 0,
-        "useFilePath": true
+        "useFilePath": true,
+        "color": "#c27100"
+      },
+      {
+        "rule": "",
+        "icon": "LiFile",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true,
+        "color": "#1abaff"
       }
     ],
     "extraMargin": {
