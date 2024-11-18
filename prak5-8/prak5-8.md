@@ -402,3 +402,25 @@ JSON может хранить вложенные объекты и массив
 
 Данные можно вкладывать в JSON с помощью массивов JavaScript, которые будут передаваться как значения. В JavaScript в начале и в конце массива используются квадратные скобки ([ ]). Массив – это упорядоченный набор данных, который может содержать данные различных типов.
 
+Массив используют для передачи большого количества данных, которые можно сгруппировать. Для примера попробуем записать данные о пользователе.
+
+```json
+{
+	"first_name" : "John",
+	"last_name" : "Smith",
+	"location" : "London",
+	
+	"websites" : [
+		{
+			"description" : "work",
+			"URL" : "https://www.johnsmithsite.com/"
+		},
+		{
+			"desciption" : "tutorials",
+			"URL" : "https://www.johnsmithsite.com/tutorials"
+		}
+	],
+	
+	"social_media" : [
+		{"description" : "twitter", "link" : "https://twitter.com/johnsmith" }, { "description" : "facebook", "link" : "https://www.facebook.com/johnsmith" }, { "description" : "github", "link" : "https://github.com/johnsmith" } ] }
+```
