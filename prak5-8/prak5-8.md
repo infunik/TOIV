@@ -422,5 +422,29 @@ JSON может хранить вложенные объекты и массив
 	],
 	
 	"social_media" : [
-		{"description" : "twitter", "link" : "https://twitter.com/johnsmith" }, { "description" : "facebook", "link" : "https://www.facebook.com/johnsmith" }, { "description" : "github", "link" : "https://github.com/johnsmith" } ] }
+		{
+			"description" : "twitter",
+			"link" : "https://twitter.com/johnsmith"
+		},
+		{
+			"description" : "facebook",
+			"link" : "https://www.facebook.com/johnsmith"
+		},
+		{
+			"description" : "github",
+			"link" : "https://github.com/johnsmith"
+		}
+	]
+}
 ```
+
+Ключам «websites» и «social_media» в качестве значений присвоены массивы, которые помещаются в квадратные скобки.
+
+При помощи вложенных массивов и объектов можно создать сложную иерархию данных.
+
+### Работа с XML и JSON
+Для работы с объектами XML и JSON существуют стандартные библиотеки.
+
+Например, для языка программирования Python это:
+- Модуль json: https://docs.python.org/3/library/json.html
+- Модуль ElementTree: https://docs.python.org/3/library/xml.etree.elementtree.html
