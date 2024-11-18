@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МУ ТОИВ 5-8 ПР v3.pdf"
+                "file": "prak5-8/tasks.md"
               },
               "icon": "lucide-list",
-              "title": "Структура МУ ТОИВ 5-8 ПР v3"
+              "title": "Структура tasks"
             }
           }
         ],
@@ -225,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "895c3d9c825c7f3c",
+  "active": "42c4546a93c18d02",
   "lastOpenFiles": [
-    "prak5-8/tasks.md",
     "МУ ТОИВ 5-8 ПР v3.pdf",
+    "prak5-8/tasks.md",
     "images/Pasted image 20241118170208.png",
     "prak5-8/prak7.md",
     "prak5-8/prak5-8.md",
