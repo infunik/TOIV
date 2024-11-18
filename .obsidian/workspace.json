@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prak1-4/prak3.md",
+                "file": "prak5-8/prak5-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prak3"
+              "title": "prak5-8"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prak1-4/prak3.md"
+                "file": "prak5-8/prak5-8.md"
               },
               "icon": "lucide-list",
-              "title": "Структура prak3"
+              "title": "Структура prak5-8"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "6b478541bd856304",
   "lastOpenFiles": [
-    "prak1-4/prak1.md",
     "prak1-4/prak3.md",
+    "prak1-4/prak1.md",
     "images/Pasted image 20241118162943.png",
     "images/Pasted image 20241118162935.png",
     "prak1-4/info6.md",
