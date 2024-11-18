@@ -372,14 +372,33 @@ JSON может хранить вложенные объекты и массив
 
 **Примечание:** Первый вложенный объект JSON выделен красным.
 
-```
+```json
 {
-	" john" : { "username" : " John", "location" : "London", "online" : true, "followers" : 987
+	" john" : {
+		"username" : " John",
+		"location" : "London",
+		"online" : true,
+		"followers" : 987
 	},
-	"jesse" : { "username" : "Jesse", "location" : "Washington", "online" : false, "followers" : 432
+	"jesse" : {
+		"username" : "Jesse",
+		"location" : "Washington", 
+		"online" : false,
+		"followers" : 432
 	},
-	"drew" : { "username" : "Drew", "location" : "Paris", "online" : false, "followers" : 321
+	"drew" : {
+		"username" : "Drew", "location" : "Paris", "online" : false, "followers" : 321
 	},
-	"jamie" : { "username" : "Jamie", "location" : "Berlin", "online" : true, "followers" : 654 }
+	"jamie" : {
+		"username" : "Jamie", "location" : "Berlin", "online" : true, "followers" : 654 
 	}
+}
 ```
+
+
+Обратите внимание: фигурные скобки используются и во вложенном, и в основном объекте. Запятые во вложенных объектах используются так же, как и в обычных.
+
+**Вложенные массивы**
+
+Данные можно вкладывать в JSON с помощью массивов JavaScript, которые будут передаваться как значения. В JavaScript в начале и в конце массива используются квадратные скобки ([ ]). Массив – это упорядоченный набор данных, который может содержать данные различных типов.
+
