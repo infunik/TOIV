@@ -1,3 +1,6 @@
+```python
+pip install paho-mqtt
+```
 
 ```python
 import xml.etree.ElementTree as ET
@@ -57,7 +60,7 @@ def save_to_xml():
             child.text = str(value)
 
     tree = ET.ElementTree(root)
-    tree.write('data2.xml', encoding='utf-8', xml_declaration=True)
+    tree.write('data.xml', encoding='utf-8', xml_declaration=True)
 
 def periodic_xml_save(interval=60):
     """Периодическая функция для сохранения данных в XML."""
