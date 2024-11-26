@@ -113,7 +113,7 @@
       {
         "id": "d71aac2e0db3a2f8",
         "type": "tabs",
-        "dimension": 49.25053533190578,
+        "dimension": 55.42857142857143,
         "children": [
           {
             "id": "7ecf829401be6005",
@@ -179,7 +179,7 @@
       {
         "id": "5677e180622f9124",
         "type": "tabs",
-        "dimension": 22.983583154889363,
+        "dimension": 44.57142857142857,
         "children": [
           {
             "id": "78794fb304a42cba",
@@ -190,14 +190,7 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ]
-      },
-      {
-        "id": "2070a1ec6646b26f",
-        "type": "tabs",
-        "dimension": 27.765881513204853,
-        "children": [
+          },
           {
             "id": "a890bbfcbcb4dd1a",
             "type": "leaf",
@@ -225,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42c4546a93c18d02",
+  "active": "78794fb304a42cba",
   "lastOpenFiles": [
     "МУ ТОИВ 5-8 ПР v3.pdf",
     "prak5-8/tasks.md",
