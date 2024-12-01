@@ -450,7 +450,6 @@ JSON может хранить вложенные объекты и массив
 - Модуль ElementTree: https://docs.python.org/3/library/xml.etree.elementtree.html
 
 ## Иные вопросы
-- [ ] доделать
 ### По 5-ой работе:
 ### Часть 1
 - Что делали в 5-ой работе?
