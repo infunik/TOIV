@@ -38,6 +38,10 @@
 	- Логи на платформе и устройстве.
 	- Убедитесь, что данные передаются корректно и отображаются в интерфейсе платформы.
 
+```c++
+mosquitto_pub -d -h dev.rightech.io -i mqtt-mirea5sem-1 -t base/state/temperature -m 32 -u user -P 123123 -p 8883
+```
+
 Пример MQTT запросов: Например, с mosquitto_pub клиентом из проекта Eclipse Mosquitto.
 ```c++
 $ mosquitto_pub -d -h dev.rightech.io -i <ric-mqtt-client-id> -t base/state/temperature -m 23
