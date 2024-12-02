@@ -25,15 +25,18 @@
             "id": "895c3d9c825c7f3c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "МУ ТОИВ 5-8 ПР v3.pdf"
+                "file": "prak9-12/prak9-12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "МУ ТОИВ 5-8 ПР v3"
+              "icon": "lucide-file",
+              "title": "prak9-12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,17 +206,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b478541bd856304",
+  "active": "895c3d9c825c7f3c",
   "lastOpenFiles": [
-    "prak5-8/prak5-8.md",
+    "МУ ТОИВ 5-8 ПР v3.pdf",
     "prak9-12/prak9-12.md",
+    "prak5-8/prak5-8.md",
     "images/Pasted image 20241201222220.png",
     "Pasted image 20241201222220.png",
     "images/Pasted image 20241201222220.png.md",
     "prak9-12/images.md",
     "prak5-8/tasks.md",
     "prak5-8/prak7.md",
-    "МУ ТОИВ 5-8 ПР v3.pdf",
     "images/Pasted image 20241118170208.png",
     "prak5-8/prak8.md",
     "верные утверждения.pdf",
