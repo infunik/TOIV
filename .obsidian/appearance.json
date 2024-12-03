@@ -1,4 +1,5 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": "#03cc00"
 }
