@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOIV.md",
+                "file": "exam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOIV"
+              "title": "exam"
             }
           }
         ]
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOIV.md"
+                "file": "exam.md"
               },
               "icon": "lucide-list",
-              "title": "Структура TOIV"
+              "title": "Структура exam"
             }
           }
         ]
@@ -200,8 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78794fb304a42cba",
+  "active": "5053f7adfc7a9a97",
   "lastOpenFiles": [
+    "lek/Лекции по дисциплине Технологичекие основы интернета вещей ИВБО-06,07,08-22 ИВБО-01,04,05,02,03-2.zip",
+    "TOIV.md",
     "lek/Лекция_3.pdf",
     "lek/Лекция_4.pdf",
     "lek/Лекция_5.pdf",
@@ -212,10 +214,8 @@
     "lek/gost_r_70924-2023.pdf",
     "lek/Технологические_основы_интернета_вещей_Дополнительно.pdf",
     "lek/ИНТЕРНЕТ ВЕЩЕЙ ПРОМЫШЛЕННЫЙ. Типовая архитектура.pdf",
-    "lek/Стандарт Интернет вещей.pdf",
     "exam.md",
     "images/Pasted image 20241203222413.png",
-    "TOIV.md",
     "prak9-12/prak9-12.md",
     "prak5-8/prak5-8.md",
     "images/Pasted image 20241201222220.png",
