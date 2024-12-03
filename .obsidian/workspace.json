@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prak9-12/prak9-12.md",
+                "file": "TOIV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prak9-12"
+              "title": "TOIV"
             }
           }
         ],
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prak9-12/prak9-12.md"
+                "file": "TOIV.md"
               },
               "icon": "lucide-list",
-              "title": "Структура prak9-12"
+              "title": "Структура TOIV"
             }
           }
         ],
@@ -208,7 +208,9 @@
   },
   "active": "895c3d9c825c7f3c",
   "lastOpenFiles": [
+    "Пашков_Чернов_Шанаев_ПР_5-8.pdf",
     "МУ ТОИВ 5-8 ПР v3.pdf",
+    "верные утверждения.pdf",
     "prak9-12/prak9-12.md",
     "prak5-8/prak5-8.md",
     "images/Pasted image 20241201222220.png",
@@ -219,7 +221,6 @@
     "prak5-8/prak7.md",
     "images/Pasted image 20241118170208.png",
     "prak5-8/prak8.md",
-    "верные утверждения.pdf",
     "prak5-8/prak6_4.md",
     "prak1-4/prak3.md",
     "prak1-4/prak1.md",
