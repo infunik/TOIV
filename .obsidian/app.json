@@ -3,5 +3,6 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "images",
   "readableLineLength": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "autoConvertHtml": false
 }
