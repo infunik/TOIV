@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exam.md",
+                "file": "prak9-12/prak9-12.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "prak9-12"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -93,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam.md",
+                "file": "prak9-12/prak9-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для prak9-12"
             }
           },
           {
@@ -119,10 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam.md",
+                "file": "prak9-12/prak9-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из prak9-12"
             }
           },
           {
@@ -133,7 +149,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -142,8 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam.md"
-              }
+                "file": "prak9-12/prak9-12.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура prak9-12"
             }
           }
         ]
@@ -158,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -169,19 +191,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "5053f7adfc7a9a97",
   "lastOpenFiles": [
-    "lek/Лекции по дисциплине Технологичекие основы интернета вещей ИВБО-06,07,08-22 ИВБО-01,04,05,02,03-2.zip",
     "TOIV.md",
+    "prak9-12/prak9-12.md",
+    "exam.md",
+    "lek/Лекции по дисциплине Технологичекие основы интернета вещей ИВБО-06,07,08-22 ИВБО-01,04,05,02,03-2.zip",
     "lek/Лекция_3.pdf",
     "lek/Лекция_4.pdf",
     "lek/Лекция_5.pdf",
@@ -191,10 +215,7 @@
     "lek/Лекция_1.pdf",
     "lek/gost_r_70924-2023.pdf",
     "lek/Технологические_основы_интернета_вещей_Дополнительно.pdf",
-    "lek/ИНТЕРНЕТ ВЕЩЕЙ ПРОМЫШЛЕННЫЙ. Типовая архитектура.pdf",
-    "exam.md",
     "images/Pasted image 20241203222413.png",
-    "prak9-12/prak9-12.md",
     "prak5-8/prak5-8.md",
     "images/Pasted image 20241201222220.png",
     "Pasted image 20241201222220.png",
