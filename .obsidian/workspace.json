@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prak9-12/prak9-12.md",
+                "file": "TOIV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prak9-12"
+              "title": "TOIV"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prak9-12/prak9-12.md",
+                "file": "TOIV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для prak9-12"
+              "title": "Обратные ссылки для TOIV"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prak9-12/prak9-12.md",
+                "file": "TOIV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из prak9-12"
+              "title": "Исходящие ссылки из TOIV"
             }
           },
           {
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prak9-12/prak9-12.md"
+                "file": "TOIV.md"
               },
               "icon": "lucide-list",
-              "title": "Структура prak9-12"
+              "title": "Структура TOIV"
             }
           }
         ]
