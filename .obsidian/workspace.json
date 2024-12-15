@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prak9-12/prak9-12.md",
+                "file": "prak9-12/prak11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prak9-12"
+              "title": "prak11"
             }
           }
         ]
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prak9-12/prak9-12.md"
+                "file": "prak9-12/prak11.md"
               },
               "icon": "lucide-list",
-              "title": "Структура prak9-12"
+              "title": "Структура prak11"
             }
           }
         ]
@@ -202,8 +202,11 @@
   },
   "active": "5053f7adfc7a9a97",
   "lastOpenFiles": [
-    "prak9-12/prak10.md",
+    "images/Pasted image 20241215221520.png",
     "prak9-12/prak9-12.md",
+    "prak9-12/prak11.md",
+    "prak9-12/~$актическая работа №11 IOT модификация.docx",
+    "prak9-12/prak10.md",
     "images/Pasted image 20241215220957.png",
     "images/Pasted image 20241215220946.png",
     "images/Pasted image 20241215220931.png",
@@ -226,7 +229,6 @@
     "lek/Лекция_4.pdf",
     "lek/Лекция_5.pdf",
     "lek/Лекция_6.pdf",
-    "lek/Лекция_7.pdf",
     "prak5-8/prak5-8.md",
     "images/Pasted image 20241201222220.png.md",
     "prak9-12/images.md",
