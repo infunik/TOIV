@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prak9-12/prak9-12.md",
+                "file": "prak9-12/prak12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prak9-12"
+              "title": "prak12"
             }
           }
         ]
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prak9-12/prak9-12.md"
+                "file": "prak9-12/prak12.md"
               },
               "icon": "lucide-list",
-              "title": "Структура prak9-12"
+              "title": "Структура prak12"
             }
           }
         ]
@@ -202,8 +202,10 @@
   },
   "active": "5053f7adfc7a9a97",
   "lastOpenFiles": [
-    "prak9-12/prak11.md",
+    "prak9-12/~$актическая работа 12 ТОИВ Модификация.docx",
     "prak9-12/prak9-12.md",
+    "prak9-12/prak12.md",
+    "prak9-12/prak11.md",
     "prak9-12/prak10.md",
     "images/Pasted image 20241215222033.png",
     "images/Pasted image 20241215221909.png",
@@ -218,7 +220,6 @@
     "prak9-12/~$актическая работа №11 IOT модификация.docx",
     "prak9-12/~$актическая работа 10 Rightech модификация.docx",
     "prak9-12/prak9.md",
-    "prak9-12/~$актическая работа 12 ТОИВ Модификация.docx",
     "prak9-12/~$актическая работа №9 модификация.docx",
     "TOIV.md",
     "МУ ТОИВ 5-8 ПР v3.pdf",
