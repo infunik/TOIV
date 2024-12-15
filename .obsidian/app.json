@@ -4,5 +4,11 @@
   "attachmentFolderPath": "images",
   "readableLineLength": false,
   "strictLineBreaks": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "pdfExportSettings": {
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
