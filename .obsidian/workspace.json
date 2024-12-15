@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOIV.md",
+                "file": "prak9-12/prak9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOIV"
+              "title": "prak9"
             }
           }
         ]
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOIV.md"
+                "file": "prak9-12/prak9.md"
               },
               "icon": "lucide-list",
-              "title": "Структура TOIV"
+              "title": "Структура prak9"
             }
           }
         ]
@@ -202,9 +202,10 @@
   },
   "active": "5053f7adfc7a9a97",
   "lastOpenFiles": [
-    "МУ ТОИВ 5-8 ПР v3.pdf",
-    "TOIV.md",
     "prak9-12/prak9-12.md",
+    "prak9-12/prak9.md",
+    "TOIV.md",
+    "МУ ТОИВ 5-8 ПР v3.pdf",
     "prak9-12/prak10.md",
     "exam.md",
     "lek/Лекции по дисциплине Технологичекие основы интернета вещей ИВБО-06,07,08-22 ИВБО-01,04,05,02,03-2.zip",
@@ -216,7 +217,6 @@
     "lek/Лекция_2.pdf",
     "lek/Лекция_1.pdf",
     "lek/gost_r_70924-2023.pdf",
-    "lek/Технологические_основы_интернета_вещей_Дополнительно.pdf",
     "images/Pasted image 20241203222413.png",
     "prak5-8/prak5-8.md",
     "images/Pasted image 20241201222220.png",
