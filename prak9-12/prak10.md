@@ -150,4 +150,3 @@ topic /devices/имя_устройства/controls/параметр both
 ![](../images/Pasted%20image%2020241215220957.png)
 
 
-
