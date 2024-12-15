@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prak9-12/prak12.md",
+                "file": "prak9-12/prak9-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prak12"
+              "title": "prak9-12"
             }
           }
         ]
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prak9-12/prak12.md"
+                "file": "prak9-12/prak9-12.md"
               },
               "icon": "lucide-list",
-              "title": "Структура prak12"
+              "title": "Структура prak9-12"
             }
           }
         ]
@@ -202,6 +202,8 @@
   },
   "active": "5053f7adfc7a9a97",
   "lastOpenFiles": [
+    "prak9-12/images.md",
+    "prak9-12/prak12.md",
     "images/Pasted image 20241215222539.png",
     "images/Pasted image 20241215222523.png",
     "images/Pasted image 20241215222505.png",
@@ -210,14 +212,12 @@
     "images/Pasted image 20241215222417.png",
     "prak9-12/~$актическая работа 12 ТОИВ Модификация.docx",
     "prak9-12/prak9-12.md",
-    "prak9-12/prak12.md",
     "prak9-12/prak11.md",
     "prak9-12/prak10.md",
     "images/Pasted image 20241215222033.png",
     "images/Pasted image 20241215221909.png",
     "images/Pasted image 20241215221902.png",
     "images/Pasted image 20241215221855.png",
-    "images/Pasted image 20241215221842.png",
     "prak9-12/~$актическая работа №11 IOT модификация.docx",
     "prak9-12/~$актическая работа 10 Rightech модификация.docx",
     "prak9-12/prak9.md",
@@ -232,7 +232,6 @@
     "lek/Лекция_6.pdf",
     "prak5-8/prak5-8.md",
     "images/Pasted image 20241201222220.png.md",
-    "prak9-12/images.md",
     "prak5-8/tasks.md",
     "prak5-8/prak7.md",
     "prak5-8/prak8.md",
