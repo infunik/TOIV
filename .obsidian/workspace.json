@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prak9-12/prak11.md",
+                "file": "prak9-12/prak9-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prak11"
+              "title": "prak9-12"
             }
           }
         ]
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prak9-12/prak11.md"
+                "file": "prak9-12/prak9-12.md"
               },
               "icon": "lucide-list",
-              "title": "Структура prak11"
+              "title": "Структура prak9-12"
             }
           }
         ]
@@ -202,6 +202,10 @@
   },
   "active": "5053f7adfc7a9a97",
   "lastOpenFiles": [
+    "prak9-12/prak11.md",
+    "prak9-12/prak9-12.md",
+    "prak9-12/prak10.md",
+    "images/Pasted image 20241215222033.png",
     "images/Pasted image 20241215221909.png",
     "images/Pasted image 20241215221902.png",
     "images/Pasted image 20241215221855.png",
@@ -211,12 +215,7 @@
     "images/Pasted image 20241215221805.png",
     "images/Pasted image 20241215221756.png",
     "images/Pasted image 20241215221728.png",
-    "images/Pasted image 20241215221718.png",
-    "images/Pasted image 20241215221558.png",
-    "prak9-12/prak9-12.md",
-    "prak9-12/prak11.md",
     "prak9-12/~$актическая работа №11 IOT модификация.docx",
-    "prak9-12/prak10.md",
     "prak9-12/~$актическая работа 10 Rightech модификация.docx",
     "prak9-12/prak9.md",
     "prak9-12/~$актическая работа 12 ТОИВ Модификация.docx",
